@@ -2,7 +2,7 @@
   "name": "mbsh_v1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://dvd-km.github.io/m-b-s-h-v-1",
+  "homepage": "http://dvd-km.github.io/mbsh_v1",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
